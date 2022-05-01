@@ -1,4 +1,4 @@
-![hey there, i'm sawsan!](.\readme-assets\hello.svg)
+![hey there, i'm sawsan!](./readme-assets/hello.svg)
 
 ### 🙋‍♀ Hello there! :)
 
@@ -38,4 +38,4 @@ This is where I code stuff and (mostly) break things
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=szidanne)](https://www.github.com/szidanne)
 
-![Toodles!](.\readme-assets\footer.svg)
+![Toodles!](./readme-assets/footer.svg)
