@@ -14,9 +14,11 @@ This is where I code stuff and (mostly) break things
 
 ### 🤝 Connect with me:
 
+<div align="center">
 <a href="mailto:sawsanzidanne@gmail.com" target="_blank" rel="noreferrer"><img height="15" src=".\readme-assets\gmail.png" width="15"/></a>
 <a href="https://linkedin.com/in/sawsan-zidanne" target="_blank" rel="noreferrer"><img height="15" src=".\readme-assets\linkedin.png" width="15"/></a>
 <a href="https://www.instagram.com/sawsan.zeidan/" target="_blank" rel="noreferrer"><img height="15" src=".\readme-assets\instagram.png" width="15"/></a>
+</div>
 
 - 💬 If you have any questions/feedback please do not hesitate to reach out!
 
