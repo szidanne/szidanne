@@ -7,7 +7,7 @@
 This is where I code stuff and (mostly) break things
 
 - 🔭 I’m currently working on something absolutely cool
-- 🌱 I’m currently learning tailoring (& `React.js` constantly)
+- 🌱 I’m currently learning `Express.js` (& `React.js` constantly)
 - 📫 How to reach me: say 👋 at [sawsanzidanne@gmail.com](mailto:sawsanzidanne@gmail.com)
 - 😄 Pronouns: `she/her`
 - ⚡ Fun fact: i 💖 cats 🐈 & midnight driving 🌃
